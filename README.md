@@ -1,2 +1,2 @@
 # Java-DataStructures
-This is my personal playground for learning Data Structures
+This is my public playground for learning Data Structures
