@@ -32,6 +32,7 @@ public class TheArrays {
             System.out.println(colors[i]);
         }
 
+        //ENHANCED FOR LOOP
         for (String color : colors) {
             System.out.println(color);
         }
